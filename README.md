@@ -25,7 +25,9 @@ Data saved in data.csv
 
 ## 📸 Screenshots
 
- - (Insert your terminal screenshot here)
+ - ![Image](https://github.com/user-attachments/assets/b9bcee6f-5267-4ab8-a16b-c4d0de0802ca)
+
+ - ![Image](https://github.com/user-attachments/assets/7998766b-8050-4c71-b54a-55c07d14bcad)
 
 ## 📦 Requirements
 
