@@ -1,0 +1,6 @@
+Name,Age,Height_m,Weight_kg,BMI,Category
+Alice,23,1.65,45.0,16.53,Underweight
+Bob,26,1.68,76.0,26.93,Overweight
+Trudy,24,1.73,65.0,21.72,Normal
+Rick,18,1.68,29.94,10.65,Underweight
+Morty,31,1.75,39.46,12.85,Underweight
